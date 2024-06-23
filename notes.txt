@@ -1,0 +1,7 @@
+descargar docker para el sistema operativo
+iniciar el docker desktop en el pc
+correr "docker run hello-world"
+luego que funcione el comando anterior.
+seguir el tutorial: 
+https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial
+
